@@ -1,0 +1,3 @@
+{"Alarms": [{"time": "14:30", "Freq": "OnlyNext", "Radio": 0}, 
+		    {"time": "15:30", "Freq": "1011001", "Radio": 1},
+		    {"time": "16:30", "Freq": "everytime", "Radio": 0}]}
